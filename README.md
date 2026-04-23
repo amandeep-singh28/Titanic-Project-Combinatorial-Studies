@@ -13,22 +13,22 @@ The workflow follows:
 
 ## 📂 Project Structure
 
-Titanic Project - Combinatorial Studies/
+TITANIC PROJECT - COMBINATORIAL STUDIES/
+
+│  
+├── Datasets/  
+│   └── Titanic-Dataset.csv  
 
 │  
 ├── 01_Data_Cleaning.ipynb  
-├── 02_EDA.ipynb  
+├── 02_Data_Visualization.ipynb  
 ├── 03_Logistic_Regression.ipynb  
 ├── 04_Decision_Tree.ipynb  
 ├── 05_Random_Forest.ipynb  
 
 │  
-├── Dataset/  
-│   ├── Titanic-Dataset.csv  
-│   └── Data_Cleaning.csv  
-
-│  
-└── README.md  
+├── Data_Cleaning.csv  
+├── README.md     
 
 ---
 
